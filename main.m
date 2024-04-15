@@ -1,6 +1,6 @@
 % Valores
 gamma = 0.98;
-phi = 200;
+phi = 5;
 epsilon = -0.1;
 k = 1.6;
 sigma = 0.8;
